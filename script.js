@@ -53,8 +53,7 @@ function getWeather() {
 
             const temperaturehHTML = `<p>${temperature}&degC</p>`;
 
-            const weatherHTML = `
-                                <p>${cityName}</p>
+            const weatherHTML = `<p>${cityName}</p>
                                 <p>${description}</p>
                                 `;
 
